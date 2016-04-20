@@ -1,0 +1,39 @@
+.head{
+	color: black
+	font-size 80px;
+	text-align: center;
+}
+.title{
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+.description{
+	 color: darkgray;
+    font-size: 30px;
+    text-align: left;
+    border:10px;
+}
+.image{
+	width:300px;
+	height:150px;
+}
+
+.chart{
+	width: 100px;
+	height: 100px;
+}
+
+.circ1{
+	stroke: green;
+	fill: black;
+	stroke-width: 5;
+}
+.h1{
+	color: red;
+}
+
+
+
+
